@@ -85,6 +85,7 @@ This supports **investment** and **retention decisions**.
 - Time (month, year)
 - Customer tenure
 
+
 ### 🛠️ Tech Stack
 | Tool                   | Usage                                 |
 | ---------------------- | ------------------------------------- |
@@ -105,9 +106,12 @@ This supports **investment** and **retention decisions**.
 - ✅ LTV by customer segment
 - ✅ Executive-level business narrative
 
+
 ### 🧾 Executive Summary (Example)
 A small percentage of customers drive a disproportionate share of revenue.
 By prioritizing high-RFM customers and reducing refund-related leakage, the business can significantly improve revenue efficiency without increasing acquisition spend.
+
+
 
 ### 💼 Skills Demonstrated
 - Business problem framing
