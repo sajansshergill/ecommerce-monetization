@@ -87,6 +87,7 @@ This supports **investment** and **retention decisions**.
 
 
 ### 🛠️ Tech Stack
+
 | Tool                   | Usage                                 |
 | ---------------------- | ------------------------------------- |
 | **SQL**                | Joins, aggregations, window functions |
@@ -96,10 +97,12 @@ This supports **investment** and **retention decisions**.
 
 
 ### 📁 Project Structure
+
 <img width="878" height="610" alt="image" src="https://github.com/user-attachments/assets/84c86e00-f688-41b4-9ae4-2e8ebf44b4ab" />
 
 
 ### 📈 Key Deliverables
+
 - ✅ RFM customer segments
 - ✅ Revenue & monetization dashboard
 - ✅ Revenue leakage analysis
@@ -108,12 +111,14 @@ This supports **investment** and **retention decisions**.
 
 
 ### 🧾 Executive Summary (Example)
+
 A small percentage of customers drive a disproportionate share of revenue.
 By prioritizing high-RFM customers and reducing refund-related leakage, the business can significantly improve revenue efficiency without increasing acquisition spend.
 
 
 
 ### 💼 Skills Demonstrated
+
 - Business problem framing
 - SQL analytics (real-world queries)
 - Customer segmentation
