@@ -162,3 +162,33 @@ Focusing on high-RFM segments offers a more capital-efficient path to revenue gr
 ## 🧠 Executive Takeaway
  Revenue growth is driven less by acquiring more customers and more by **retaining, protecting, and expanding high-value customer relationships**.
 Strategic focus on customer segmentation and leakage reduction can materially improve monetization efficiency.
+
+---
+
+Monthly Revenue Trend:-
+<img width="1208" height="1510" alt="image" src="https://github.com/user-attachments/assets/60e9f826-fb37-4291-9fd1-da7dcea58c62" />
+
+---
+
+Active Customers:-
+<img width="422" height="132" alt="image" src="https://github.com/user-attachments/assets/12e9e0d7-c20d-4d85-aa32-5ab5f276b666" />
+
+---
+
+Average Order Value:-
+<img width="422" height="132" alt="image" src="https://github.com/user-attachments/assets/0863c05b-89c5-4162-9f46-cd8e18904abd" />
+
+---
+
+ARPC:-
+<img width="422" height="132" alt="image" src="https://github.com/user-attachments/assets/339b2296-e3df-4ad2-809f-6228629556ef" />
+
+---
+
+Segment Summary Table:-
+<img width="1784" height="1486" alt="image" src="https://github.com/user-attachments/assets/31f27d10-d95d-4083-90a2-620b55fc9805" />
+
+
+
+
+
