@@ -8,7 +8,6 @@ Who are our most valuable customers, and where are we losing money?
 
 This project answers that question using real-world transaction data, applying customer segmentation, revenue analysis, and executive-level storytelling to surface actionable insights.
 
----
 
 ## 🎯 Business Problem
 ### Primary Question
